@@ -1,0 +1,5 @@
+I worked on this project independently.
+
+I used course materials and ChatGPT for conceptual clarification
+and code debugging. All implementation decisions and final
+solutions are my own.
